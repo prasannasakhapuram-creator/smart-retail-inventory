@@ -1,0 +1,7 @@
+PyMySQL==1.1.1
+pandas==2.2.2
+openpyxl==3.1.2
+streamlit==1.38.0
+
+# Dev/testing only
+pytest==8.3.2

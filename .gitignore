@@ -1,0 +1,16 @@
+# Secrets — never commit your real DB password
+db_config.py
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated reports (don't need to be in git)
+exports/*.xlsx
+reports/*.xlsx
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
